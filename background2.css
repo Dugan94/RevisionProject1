@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/bgimage.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        color: aqua;
+    }
+
+.bulletList {
+    margin-left: 25%;
+    color:aqua;
+} 
+
+.image1 {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
